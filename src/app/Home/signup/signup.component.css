@@ -1,0 +1,29 @@
+
+.yyy{
+  max-width: 400px;
+
+}
+.zzz{
+  max-width: 400px;
+ 
+}
+
+.register-btn{
+  border: none;
+    background: #0b3c5d;
+    color: #fff;
+    font-size: 22px;
+    font-weight: 400;
+   
+    text-transform: uppercase;
+    padding: 10px 40px;
+    border-radius: 30px;
+}
+.text-center {
+    text-align: center;
+}
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
